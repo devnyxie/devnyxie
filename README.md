@@ -13,14 +13,10 @@
       </div>
 </div>
 
-
-![](https://raw.githubusercontent.com/talmkg/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-
-
-
-
-![](https://raw.githubusercontent.com/talmkg/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-
+<div style="display: flex; flex-direction: row;">
+ <img class="img" src="https://raw.githubusercontent.com/talmkg/github-stats/master/generated/overview.svg#gh-dark-mode-only" />
+ <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hussaino03&theme=radical&layout=compact" />
+</div>
 ---
 ### :man_technologist: About me:
 Till now I’ve done only my own, personal projects. I’ve studied python, java, ethical hacking, web and algorithms for more than 3 years. Moreover, I know perfectly how to speak on Greek, Russian and English (C2). Also, I love to build/upgrade PC’s from a very young age, as well as exploring custom software for phones. As a result, I try to become the best version of myself by studying, exercising & coding every single day. 
