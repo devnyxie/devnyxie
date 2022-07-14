@@ -18,6 +18,6 @@
 ![](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
 
-### :man_technologist About me:
+### :woman_technologist About me:
 Till now I’ve done only my own, personal projects. I’ve studied python, java, ethical hacking, web and algorithms for more than 3 years. Moreover, I know perfectly how to speak on Greek, Russian and English (C2). Also, I love to build/upgrade PC’s from a very young age, as well as exploring custom software for phones. As a result, I try to become the best version of myself by studying, exercising & coding every single day. 
 
