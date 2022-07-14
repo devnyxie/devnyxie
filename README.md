@@ -1,6 +1,4 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/1sgetPM00wWqJpVUTl/giphy.gif" width="100"/>
-</div>
+<img src="https://media.giphy.com/media/1sgetPM00wWqJpVUTl/giphy.gif"/>
 
 ![](https://raw.githubusercontent.com/talmkg/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 
