@@ -6,7 +6,6 @@
         </a>
           <a href="https://www.instagram.com/talmkg/">
           <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-          
         </a>
       </div>
 </div>
