@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/1sgetPM00wWqJpVUTl/giphy.gif"/>
+<img src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif"/>
 
 ![](https://raw.githubusercontent.com/talmkg/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 
