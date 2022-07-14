@@ -15,7 +15,7 @@
 
 <div style="display: flex; flex-direction: row;">
  <img class="img" src="https://raw.githubusercontent.com/talmkg/github-stats/master/generated/overview.svg#gh-dark-mode-only" />
- <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hussaino03&theme=radical&layout=compact" />
+ <img class="img" src="https://raw.githubusercontent.com/talmkg/github-stats/master/generated/languages.svg#gh-dark-mode-only" />
 </div>
 ---
 ### :man_technologist: About me:
