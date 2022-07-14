@@ -19,6 +19,10 @@
 </div>
 
 
+<img align="center" src="https://raw.githubusercontent.com/talmkg/github-stats/master/generated/overview.svg#gh-dark-mode-only" />
+<img align="center" src="https://raw.githubusercontent.com/talmkg/github-stats/master/generated/languages.svg#gh-dark-mode-only" />
+
+
 
 ---
 ### :man_technologist: About me:
