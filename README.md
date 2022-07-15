@@ -17,7 +17,7 @@
 <img class="img" src="https://raw.githubusercontent.com/talmkg/github-stats/master/generated/overview.svg"/>
 
 </div>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=talmkg)](https://github.com/anuraghazra/github-readme-stats)
+[!(https://github-readme-stats.vercel.app/api?username=talmkg)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 ### :man_technologist: About me:
