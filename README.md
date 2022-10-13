@@ -15,7 +15,9 @@
 <div id="stats" align="center">
 <img class="img" src="https://raw.githubusercontent.com/talmkg/github-stats/master/generated/overview.svg#gh-dark-mode-only"/>
 <img class="img" src="https://raw.githubusercontent.com/talmkg/github-stats/master/generated/languages.svg#gh-dark-mode-only"/>
-
+<i class="fa-brands fa-html5"></i>
+<i class="fa-brands fa-css3-alt"></i>
+<i class="fa-brands fa-square-js"></i>
 
 </div>
 
