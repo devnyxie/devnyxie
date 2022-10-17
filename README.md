@@ -4,14 +4,10 @@
           <div id="badges">
         <div id="social" align="center">
           
+         
           
           
-          <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="tim-afanasiev-2410b522b" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://pl.linkedin.com/in/tim-afanasiev-2410b522b?trk=profile-badge">Tim Afanasiev</a></div>
-
-          
-          
-          
-                    <a href="https://www.linkedin.com/in/tim-afanasiev-2410b522b/">
+                    <a href=" www.linkedin.com/in/talmkg">
                       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
                     </a>
                       <a href="https://www.instagram.com/talmkg/">
