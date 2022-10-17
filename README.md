@@ -12,13 +12,19 @@
                     </a>
       </div>
 </div>
+  
+<div id="skills" align="center">
 
+
+[![My Skills](https://skillicons.dev/icons?i=html,md,css,js,ts,mongodb,nodejs,git,github,linux,vscode,androidstudio&perline=6)](https://skillicons.dev)
+  
+  
+  
+  
 <div id="stats" align="center">
 <img class="img" src="https://raw.githubusercontent.com/talmkg/github-stats/master/generated/overview.svg#gh-dark-mode-only"/>
 <img class="img" src="https://raw.githubusercontent.com/talmkg/github-stats/master/generated/languages.svg#gh-dark-mode-only"/>
 
-
-</div>
 
 <p align="center">
   <img src="https://media1.giphy.com/media/11KzOet1ElBDz2/giphy.gif?cid=ecf05e47ctet595443v069j8z1qhxr8swm5me6elbbbhdcbo&rid=giphy.gif&ct=g" alt="Sublime's custom image"/>
