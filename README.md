@@ -15,7 +15,7 @@
   
 <div id="skills" align="center">
 <br>
-<p align="center">Things I code with:</p>
+<h3 align="center">Things I code with:</h3>
 
 
 [![My Skills](https://skillicons.dev/icons?i=html,md,css,nodejs,bootstrap,ts,mongodb,,git,github,linux,vscode,androidstudio&perline=7)](https://skillicons.dev)
