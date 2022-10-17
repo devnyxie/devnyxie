@@ -12,13 +12,18 @@
                     </a>
       </div>
 </div>
-  
+
+
+
 <div id="skills" align="center">
+
+![](https://komarev.com/ghpvc/?username=talmkg&color=blueviolet)
+
 <br>
 <h3 align="center">Things I code with:</h3>
 
 
-[![My Skills](https://skillicons.dev/icons?i=html,md,css,nodejs,bootstrap,ts,mongodb,,git,github,linux,vscode,androidstudio&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,md,css,nodejs,bootstrap,ts,mongodb,git,github,linux,vscode,androidstudio&perline=15)](https://skillicons.dev)
   
   
   
@@ -32,8 +37,7 @@
   <img src="https://media1.giphy.com/media/11KzOet1ElBDz2/giphy.gif?cid=ecf05e47ctet595443v069j8z1qhxr8swm5me6elbbbhdcbo&rid=giphy.gif&ct=g" alt="Sublime's custom image"/>
 </p>
 
-![](https://komarev.com/ghpvc/?username=talmkg&color=blueviolet)
-
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 ---
 ### :man_technologist: About me:
