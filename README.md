@@ -1,6 +1,4 @@
-<i class="fa-brands fa-html5"></i>
-<i class="fa-brands fa-css3-alt"></i>
-<i class="fa-brands fa-square-js"></i>
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" width="120"/>
           <div id="badges">
