@@ -36,5 +36,5 @@
 
 ---
 ### :man_technologist: About me:
-Till now I’ve done only my own, personal projects. I’ve studied python, java, ethical hacking, web and algorithms for more than 3 years. Moreover, I know perfectly how to speak on Greek, Russian and English (C2). Also, I love to build/upgrade PC’s from a very young age, as well as exploring custom software for phones. As a result, I try to become the best version of myself by studying, exercising & coding every single day. 
               
+My name is Tim, I'm 18 years old and I see myself as a Traveler, Polyglot (Russian, Greek, English & Polish) and future Developer. At the moment I'm studying at Epicode's Bootcamp to become Full Stack Web Developer. I have basic skills of software development, ethical hacking and I've also completed android development courses on Java.
