@@ -18,7 +18,7 @@
 <p align="center">Things I code with:</p>
 
 
-[![My Skills](https://skillicons.dev/icons?i=html,md,css,bootstrap,ts,mongodb,nodejs,git,github,linux,vscode,androidstudio&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,md,css,nodejs,bootstrap,ts,mongodb,,git,github,linux,vscode,androidstudio&perline=6)](https://skillicons.dev)
   
   
   
