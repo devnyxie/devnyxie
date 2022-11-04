@@ -19,7 +19,7 @@
 
 ![](https://komarev.com/ghpvc/?username=talmkg&color=blueviolet)
 
-<br>
+
 <h3 align="center">Things I code with:</h3>
 
 
@@ -31,8 +31,11 @@
 <div id="stats" align="center">
 <img class="img" src="https://raw.githubusercontent.com/talmkg/github-stats/master/generated/overview.svg#gh-dark-mode-only"/>
 <img class="img" src="https://raw.githubusercontent.com/talmkg/github-stats/master/generated/languages.svg#gh-dark-mode-only"/>
+ 
+  
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=talmkg)](https://git.io/streak-stats)
 
-
+  
 <p align="center">
   <img src="https://media1.giphy.com/media/11KzOet1ElBDz2/giphy.gif?cid=ecf05e47ctet595443v069j8z1qhxr8swm5me6elbbbhdcbo&rid=giphy.gif&ct=g" alt="Sublime's custom image"/>
 </p>
