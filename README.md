@@ -38,8 +38,6 @@
 </p>
 
 
-<img src="https://readme-jokes.vercel.app/api?hideBorder" alt="Jokes Card" />
-
 ---
 ### :man_technologist: About me:
               
