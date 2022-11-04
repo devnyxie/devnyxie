@@ -33,8 +33,8 @@
 <img class="img" src="https://raw.githubusercontent.com/talmkg/github-stats/master/generated/languages.svg#gh-dark-mode-only"/>
  
   
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=talmkg)](https://git.io/streak-stats)
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=talmkg&theme=onedark_duo&border_radius=4)](https://git.io/streak-stats)
+  
   
 <p align="center">
   <img src="https://media1.giphy.com/media/11KzOet1ElBDz2/giphy.gif?cid=ecf05e47ctet595443v069j8z1qhxr8swm5me6elbbbhdcbo&rid=giphy.gif&ct=g" alt="Sublime's custom image"/>
