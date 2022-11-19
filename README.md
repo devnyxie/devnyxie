@@ -14,7 +14,7 @@ My name is Tim, I'm 18 years old and I see myself as a Traveler, Polyglot (Russi
                       <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
                         </div>
                     </a>
-                    <a href="timbusinez@gmail.com">
+                    <a href="https://mail.google.com/mail/timbusinez@gmail.com">
                       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
             </a>
       </div>
