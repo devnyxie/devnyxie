@@ -1,11 +1,9 @@
 <p align="center"> :man_technologist: <strong>About me:</strong><br>            
-My name is Tim, I'm 18 years old and I see myself as a Traveler, Polyglot (Russian, Greek, English & Polish) and future Developer. At the moment I'm studying at Epicode's Bootcamp to become Full Stack Web Developer. I have basic skills of software development, ethical hacking and I've also completed android development courses on Java.
+My name is Tim, I'm 18 years old and I see myself as a Traveler, Polyglot (Russian, Greek, English & Polish) and future Developer. At the moment I'm studying at Epicode's Bootcamp to become Full Stack Web Developer. I have basic skills of software development, ethical hacking and I've also completed android development courses on Java. All my recent projects can be found on the tab "Stars".
 </p>
 
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" width="120"/>
-  <p style="">timbusinez@gmail.com</p>
           <div id="badges">
         <div id="social" align="center">
                     <a href="https://www.linkedin.com/in/talmkg/">
