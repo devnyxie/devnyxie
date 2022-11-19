@@ -1,3 +1,7 @@
+<p align="center"> :man_technologist: <strong>About me:</strong><br>            
+My name is Tim, I'm 18 years old and I see myself as a Traveler, Polyglot (Russian, Greek, English & Polish) and future Developer. At the moment I'm studying at Epicode's Bootcamp to become Full Stack Web Developer. I have basic skills of software development, ethical hacking and I've also completed android development courses on Java.
+</p>
+
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" width="120"/>
@@ -52,12 +56,4 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=talmkg&theme=onedark_duo&border_radius=4)](https://git.io/streak-stats)
   
   
-<p align="center">
-  <img src="https://media1.giphy.com/media/11KzOet1ElBDz2/giphy.gif?cid=ecf05e47ctet595443v069j8z1qhxr8swm5me6elbbbhdcbo&rid=giphy.gif&ct=g" alt="Sublime's custom image"/>
-</p>
 
-
----
-### :man_technologist: About me:
-              
-My name is Tim, I'm 18 years old and I see myself as a Traveler, Polyglot (Russian, Greek, English & Polish) and future Developer. At the moment I'm studying at Epicode's Bootcamp to become Full Stack Web Developer. I have basic skills of software development, ethical hacking and I've also completed android development courses on Java.
