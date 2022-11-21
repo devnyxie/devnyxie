@@ -49,7 +49,7 @@ My back-end skills:
 <h3 align="center">:hammer_and_wrench: Things I code with:</h3>
 
 
-[![My Skills](https://skillicons.dev/icons?i=html,md,css,nodejs,bootstrap,ts,react,redux,mongodb,git,github,linux,vscode,androidstudio&perline=15)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,md,css,nodejs,bootstrap,ts,react,java,mongodb,git,github,linux,vscode,androidstudio&perline=14)](https://skillicons.dev)
 
   
   
