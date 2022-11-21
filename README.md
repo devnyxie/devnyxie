@@ -11,8 +11,7 @@ My front-end skills:
 <li>JavaScript</li>
 <li>TypeScript</li>
 <li>React</li>
-</ul>
-          
+</ul>   
 My back-end skills:
 <ul>
 <li>Java</li>
