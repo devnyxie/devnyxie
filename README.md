@@ -1,6 +1,27 @@
-<p align="center"> :man_technologist: <strong>About me:</strong><br>            
-My name is Tim, I'm 18 years old and I see myself as a Traveler, Polyglot (Russian, Greek, English & Polish) and future Developer. At the moment I'm studying at Epicode's Bootcamp to become Full Stack Web Developer. I have basic skills of software development, ethical hacking and I've also completed android development courses on Java. All my recent projects can be found on the tab "Stars".
+<p align="center"> :man_technologist: <strong>About me:</strong></p><br>            
+<p>Hello, my name is Tim. I'm 18 years old and love software development. I speak multiple languages (English, Greek, Russian, and Polish) and like traveling.
+
+I'm passionate about programming, technology, and innovation. I learn fast and would like to join a dynamic and innovative team to develop my skills and deliver meaningful work.
+
+At the moment, I'm finishing EPICODE's Master Camp to become a Full- Stack Developer, but feel free to contact me for future work opportunities :)
 </p>
+My front-end skills:
+<ul>
+<li>HTML+CSS</li>       
+<li>JavaScript</li>
+<li>TypeScript</li>
+<li>React</li>
+</ul>
+          
+My back-end skills:
+<ul>
+<li>Java</li>
+<li>MySQL</li>
+<li>Spring Boot</li>
+</ul>
+
+<strong>You can find my recent projects in the "Stars" tab.</strong>
+
 
 
 <div id="header" align="center">
