@@ -3,7 +3,7 @@
 
 I'm passionate about programming, technology, and innovation. I learn fast and would like to join a dynamic and innovative team to develop my skills and deliver meaningful work.
 
-At the moment, I'm finishing EPICODE's Master Camp to become a Full- Stack Developer, but feel free to contact me for future work opportunities :)
+At the moment, I'm finishing EPICODE's Master Camp to become a Full-Stack Developer, but feel free to contact me for future work opportunities :)
 </p>
 My front-end skills:
 <ul>
