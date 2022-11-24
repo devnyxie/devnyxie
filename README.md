@@ -14,7 +14,7 @@ My front-end skills:
 </ul>   
 My back-end skills:
 <ul>
-<li>Java</li>
+<li>Java (Finished courses, no projects yet)</li>
 <li>MySQL</li>
 <li>Spring Boot</li>
 </ul>
