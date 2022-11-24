@@ -55,7 +55,7 @@ My back-end skills:
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
   
   
-  <h5 align="center">Still learning or reading books about:</h5>
+  <h5 align="center">Learning/Reading books about or Interested in:</h5>
   
   
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
