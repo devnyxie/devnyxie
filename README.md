@@ -10,7 +10,7 @@ My front-end skills:
 <li>HTML+CSS</li>       
 <li>JS/Node.js</li>
 <li>TypeScript</li>
-<li>React</li>
+<li>React/Redux</li>
 </ul>   
 My back-end skills:
 <ul>
