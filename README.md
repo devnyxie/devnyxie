@@ -16,7 +16,6 @@ My back-end skills:
 <ul>
 <li>Java (Finished courses, no projects yet)</li>
 <li>MySQL</li>
-<li>Spring Boot</li>
 </ul>
 
 <strong>You can find my recent projects in the "Stars" tab.</strong>
