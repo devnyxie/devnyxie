@@ -6,7 +6,7 @@
  <br/>        
 </div>
 
-<p align="center"> :man_technologist: <strong>About me:</strong></p><br>            
+<p align="center"> :man_technologist: <strong>About me:</strong></p>           
 <p>Hello, my name is Tim. I'm 18 years old and love software development. I speak multiple languages (English, Greek, Russian, and Polish) and like traveling.
 
 I'm passionate about programming, technology, and innovation. I learn fast and would like to join a dynamic and innovative team to develop my skills and deliver meaningful work.
