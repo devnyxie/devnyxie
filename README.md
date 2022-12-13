@@ -1,3 +1,11 @@
+<div align="center">
+
+          
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Martian+Mono&size=19&duration=2500&pause=600&color=E029F7&center=true&multiline=true&width=435&lines=Tim+Afanasiev;Junior+Full+Stack+Developer)](https://git.io/typing-svg)
+
+ <br/>        
+</div>
+
 <p align="center"> :man_technologist: <strong>About me:</strong></p><br>            
 <p>Hello, my name is Tim. I'm 18 years old and love software development. I speak multiple languages (English, Greek, Russian, and Polish) and like traveling.
 
