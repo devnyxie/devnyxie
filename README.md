@@ -22,8 +22,9 @@ My front-end skills:
 </ul>   
 My back-end skills:
 <ul>
-<li>Java (Finished courses, no projects yet)</li>
-<li>MySQL</li>
+<li>Express.js</li>
+<li>MongoDB</li>
+<li>PostgreSQL</li>       
 </ul>
 
 <strong>You can find my recent projects in the "Stars" tab.</strong>
