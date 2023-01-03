@@ -16,6 +16,7 @@ At the moment, I'm finishing EPICODE's Master Camp to become a Full-Stack Develo
 My front-end skills:
 <ul>
 <li>HTML+CSS</li>       
+<li>Bootstrap 4/5</li>  
 <li>JS/Node.js</li>
 <li>TypeScript</li>
 <li>React/Redux</li>
