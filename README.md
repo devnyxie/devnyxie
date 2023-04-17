@@ -50,28 +50,6 @@ My back-end skills:
 <div id="skills" align="center">
 
 
-
-<h3 align="center">:hammer_and_wrench: Things I code with:</h3>
-
-
-[![My Skills](https://skillicons.dev/icons?i=html,md,css,nodejs,bootstrap,ts,react,redux,mongodb,git,github,linux,bash,vscode&perline=14)](https://skillicons.dev)
-
-  
-  
-![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
-  
-  
-  <h5 align="center">Learning/Reading books about or Interested in:</h5>
-  
-  
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
-![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white)
-  
-  <p align="center">:fire: My Stats :</p>
 <div id="stats" align="center">
 <img class="img" src="https://raw.githubusercontent.com/talmkg/github-stats/master/generated/overview.svg#gh-dark-mode-only"/>
 <img class="img" src="https://raw.githubusercontent.com/talmkg/github-stats/master/generated/languages.svg#gh-dark-mode-only"/>
