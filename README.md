@@ -8,21 +8,18 @@
 
 <p align="center"> :man_technologist: <strong>About me:</strong></p>           
 <p>Hello, my name is Tim. I'm 18 years old and love software development. I speak multiple languages (English, Greek, Russian, and Polish) and like traveling.
-
-I'm passionate about programming, technology, and innovation. I learn fast and would like to join a dynamic and innovative team to develop my skills and deliver meaningful work.
-
-At the moment, I'm finishing EPICODE's Master Camp to become a Full-Stack Developer, but feel free to contact me for future work opportunities :)
 </p>
 My front-end skills:
 <ul>
 <li>HTML+CSS</li>       
-<li>Bootstrap 4/5</li>  
-<li>JS/Node.js</li>
-<li>TypeScript</li>
-<li>React/Redux</li>
+<li>Bootstrap 4/5</li> 
+<li>Mui</li>
+<li>JavaScript - React/Redux/TS</li>
+<li>Ruby - Rails</li>
 </ul>   
 My back-end skills:
 <ul>
+<li>Ruby</li>
 <li>Express.js</li>
 <li>MongoDB</li>
 <li>PostgreSQL</li>       
