@@ -7,15 +7,14 @@
 </div>
 
 <p align="center"> :man_technologist: <strong>About me:</strong></p>           
-<p>Hello, my name is Tim. I'm 18 years old and love software development. I speak multiple languages (English, Greek, Russian, and Polish) and like traveling.
+<p>Hello, my name is Tim. I'm 19 years old and love software development. I speak multiple languages (English, Greek, Russian, and Polish) and I love noodles.
 </p>
 My front-end skills:
 <ul>
 <li>HTML+CSS</li>       
-<li>Bootstrap 4/5</li> 
-<li>Mui</li>
+<li>Bootstrap 4/5, Mui, Tailwind</li> 
 <li>JavaScript - React/Redux/TS</li>
-<li>Ruby - Rails</li>
+<li>Ruby on Rails</li>
 </ul>   
 My back-end skills:
 <ul>
