@@ -12,7 +12,7 @@
 My front-end skills:
 <ul>
 <li>HTML+CSS</li>       
-<li>Bootstrap 4/5, Mui, Tailwind</li> 
+<li>Bootstrap, Mui, Tailwind</li> 
 <li>JavaScript - React/Redux/TS</li>
 <li>Ruby on Rails</li>
 </ul>   
