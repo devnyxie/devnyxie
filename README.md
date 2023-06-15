@@ -13,12 +13,13 @@ My front-end skills:
 <ul>
 <li>HTML+CSS</li>       
 <li>Bootstrap, Mui, Tailwind</li> 
-<li>JavaScript - React/Redux/TS</li>
+<li>React</li>
 <li>Ruby on Rails</li>
 </ul>   
 My back-end skills:
 <ul>
 <li>Ruby</li>
+<li>Java + Spring</li>
 <li>Express.js</li>
 <li>MongoDB</li>
 <li>PostgreSQL</li>       
