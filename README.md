@@ -12,7 +12,7 @@
 <br/>
 
 My frontend skills:
--  HTML, CSS, JavaScript (DOM manipulation, browser APIs).
+- Basics: HTML, CSS, JavaScript (DOM manipulation, browser APIs).
 - CSS Frameworks: Bootstrap, Material UI.
 - JavaScript Libraries: React.
 - Frameworks: Ruby on Rails, Angular, Vue.
