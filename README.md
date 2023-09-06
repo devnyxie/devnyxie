@@ -19,7 +19,7 @@ My frontend skills:
 
 My backend skills:
 - Languages: Ruby, JavaScript, Java, Python.
-- Frameworks:  Ruby on Rails, Express, Spring, FastAPI.
+- Frameworks:  Ruby on Rails, Express, Spring, FastAPI, Sinatra.
 - Databases: MongoDB, MYSQL, SQLite, PostgreSQL.
 
 
