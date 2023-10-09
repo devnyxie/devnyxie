@@ -35,9 +35,18 @@ My backend skills:
       <img class="img" src="https://raw.githubusercontent.com/talmkg/github-stats/master/generated/overview.svg#gh-light-mode-only"/>
       <img class="img" src="https://raw.githubusercontent.com/talmkg/github-stats/master/generated/languages.svg#gh-light-mode-only"/> -->
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=talmkg&theme=moltack) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=talmkg&theme=moltack&utcOffset=8)
+<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=talmkg&theme=moltack) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=talmkg&theme=moltack&utcOffset=8) -->
 
 </div>
 
 <!--START_SECTION:waka-->
+
+```txt
+YAML         11 mins         █████████░░░░░░░░░░░░░░░░   36.60 %
+Markdown     7 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.97 %
+JavaScript   4 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.02 %
+Ruby         3 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.42 %
+ERB          2 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.52 %
+```
+
 <!--END_SECTION:waka-->
