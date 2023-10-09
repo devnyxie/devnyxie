@@ -40,4 +40,13 @@ My backend skills:
 </div>
 
 <!--START_SECTION:waka-->
+
+```txt
+YAML         11 mins         █████████░░░░░░░░░░░░░░░░   36.60 %
+Markdown     7 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.97 %
+JavaScript   4 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.02 %
+Ruby         3 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.42 %
+ERB          2 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.52 %
+```
+
 <!--END_SECTION:waka-->
