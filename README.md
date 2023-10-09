@@ -42,7 +42,7 @@ My backend skills:
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 30 mins
+From: 08 October 2023 - To: 09 October 2023
 
 YAML                         █████████░░░░░░░░░░░░░░░░   36.60 %
 Markdown                     █████▓░░░░░░░░░░░░░░░░░░░   22.97 %
