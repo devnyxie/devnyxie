@@ -12,14 +12,14 @@
 <br/>
 
 My frontend skills:
-- Basics: HTML, CSS, JavaScript (DOM manipulation, browser APIs).
+- Basics: HTML, CSS, JavaScript.
 - CSS Frameworks: Bootstrap, Material UI, Tailwind CSS.
 - JavaScript Libraries: React.
 - Frameworks: Ruby on Rails, Angular, Vue.
 
 My backend skills:
 - Languages: Ruby, JavaScript, Java, Python.
-- Frameworks:  Ruby on Rails, Express, Spring, FastAPI, Sinatra.
+- Frameworks:  Ruby on Rails, Express, Spring, FastAPI, Sinatra, Flask.
 - Databases: MongoDB, MYSQL, SQLite, PostgreSQL.
 
 
