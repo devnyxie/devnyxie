@@ -8,9 +8,6 @@ Hello! I'm Tim, a passionate young software developer fascinated by coding. I sp
 
 ___
 
-
-<br/>
-
 <div>
 
 My frontend skills:
