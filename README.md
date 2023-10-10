@@ -4,7 +4,7 @@
 
 </div>
 
-Hello! I'm Tim, a passionate young software developer fascinated by coding. I speak multiple languages, including English, Greek, Russian, and Polish. Currently, I work as a Full Stack Developer at DemandSphere, where I enjoy exploring the dynamic world of software development.
+Hi there! My name is Tim, I'm a passionate young software developer who loves coding. I can communicate in several languages, including English, Greek, Russian, and Polish. Currently, I work as a **Full Stack Developer** at [DemandSphere](https://www.demandsphere.com/), where I enjoy exploring the dynamic world of software development.
 
 ---
 
