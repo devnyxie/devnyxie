@@ -14,7 +14,7 @@ My frontend skills:
 | Category | Technologies |
 |-----------------------|-----------------------------------------|
 | Languages | HTML <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="15" alt="html5 logo"  />, CSS <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="15" alt="css3 logo"  />, JavaScript <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="15" alt="javascript logo"  /> |
-| CSS Frameworks | Bootstrap, Material UI, Tailwind CSS |
+| CSS Frameworks | Bootstrap, Material UI, Tailwind |
 | JavaScript Libraries | React |
 | Frameworks | Ruby on Rails, Angular, Vue |
 
@@ -25,6 +25,10 @@ My backend skills:
 | Frameworks | Ruby on Rails, Express, Spring, FastAPI, Flask, Sinatra |
 | Databases | MongoDB, MySQL, SQLite, PostgreSQL |
 
+Other:
+| Other |
+| ------------- | 
+| Gatsby, Jekyll |
 </div>
 
 ---
