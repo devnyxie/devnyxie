@@ -22,13 +22,9 @@ My backend skills:
 | Category | Technologies |
 | ------------- | --------------------------------------------------- |
 | Languages | Ruby <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="15" alt="ruby logo"  />, JavaScript <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="15" alt="javascript logo"  />, Java <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="15" alt="java logo"  />, Python <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="15" alt="python logo"  />, Bash |
-| Frameworks | Ruby on Rails, Express, Spring, FastAPI, Flask, Sinatra |
+| Frameworks | Ruby on Rails, Express, Spring, FastAPI, Flask, Sinatra, Gatsby, Jekyll |
 | Databases | MongoDB, MySQL, SQLite, PostgreSQL |
 
-Other:
-| Other |
-| ------------- | 
-| Gatsby, Jekyll |
 </div>
 
 ---
