@@ -42,7 +42,7 @@ My backend skills:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 October 2023 - To: 31 October 2023
+From: 08 October 2023 - To: 01 November 2023
 
 Python                           ██████████░░░░░░░░░░░░░░░   39.98 %
 JavaScript                       ████████░░░░░░░░░░░░░░░░░   31.64 %
