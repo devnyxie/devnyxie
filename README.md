@@ -52,11 +52,9 @@ Docker                       █░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-
+<!--
 ---
-
-
-<!--<div align="center">
+<div align="center">
       <img src="https://i.pinimg.com/736x/58/fa/48/58fa48ad5263beafc161999eb68341da.jpg"  width="33%"/>
       <img src="https://i.pinimg.com/564x/aa/f3/37/aaf33792278d25c0c30f7f83555597b8.jpg"  width="33%"/>
       <img src="https://i.pinimg.com/736x/ed/b0/c0/edb0c004ba777032488f5067218df68e.jpg"  width="33%"/>
