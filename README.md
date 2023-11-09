@@ -18,6 +18,8 @@ My frontend skills:
 | JavaScript Libraries | React |
 | Frameworks | Ruby on Rails, Angular, Vue |
 
+<br/>
+
 My backend skills:
 | Category | Technologies |
 | ------------- | --------------------------------------------------- |
