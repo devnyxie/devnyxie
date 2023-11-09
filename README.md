@@ -42,8 +42,6 @@ My backend skills:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 October 2023 - To: 07 November 2023
-
 Python                       ██████████▒░░░░░░░░░░░░░░   41.84 %
 JavaScript                   ████████▓░░░░░░░░░░░░░░░░   34.81 %
 HTML                         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.34 %
