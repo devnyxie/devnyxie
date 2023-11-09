@@ -1,8 +1,8 @@
-<div align="center">
-      
+<!--<div align="center">
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1000&color=8B4513&center=true&vCenter=true&repeat=false&width=750&lines=%22The+journey+of+a+thousand+miles+begins+with+a+single+step.%22++-+Laozi)](https://git.io/typing-svg)
 
-</div>
+</div>-->
 
 Hello there! My name is Tim, I'm a passionate young software developer who loves coding. I can communicate in several languages, including English, Greek, Russian, and Polish. Currently, I work as a **Full Stack Developer** at [DemandSphere](https://www.demandsphere.com/), where I enjoy exploring the dynamic world of software development.
 
