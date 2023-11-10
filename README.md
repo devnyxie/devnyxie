@@ -13,17 +13,17 @@ Hello there! My name is Tim, I'm a passionate young software developer who loves
 My frontend skills:
 | Category | Technologies |
 |-----------------------|-----------------------------------------|
-| Languages | HTML <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="15" alt="html5 logo"  />, CSS <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="15" alt="css3 logo"  />, JavaScript <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="15" alt="javascript logo"  /> |
+| Languages | HTML, CSS, JavaScript |
 | CSS Frameworks | Bootstrap, Material UI, Tailwind |
-| JavaScript Libraries | React |
-| Frameworks | Ruby on Rails, Angular, Vue |
+| JavaScript Libraries | React, Solid |
+| Frameworks | Angular, Vue |
 
 <br/>
 
 My backend skills:
 | Category | Technologies |
 | ------------- | --------------------------------------------------- |
-| Languages | Ruby <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="15" alt="ruby logo"  />, JavaScript <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="15" alt="javascript logo"  />, Java <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="15" alt="java logo"  />, Python <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="15" alt="python logo"  />, Bash |
+| Languages | Ruby, JavaScript, Java, Python, Bash |
 | Frameworks | Ruby on Rails, Express, Spring, FastAPI, Flask, Sinatra, Gatsby, Jekyll |
 | Databases | MongoDB, MySQL, SQLite, PostgreSQL |
 
