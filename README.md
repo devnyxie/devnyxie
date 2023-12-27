@@ -45,9 +45,7 @@ My backend skills:
 <!--START_SECTION:waka-->
 
 ```txt
-Ruby                   ██████████████████▓░░░░░░   74.31 %
-ERB                    ███▓░░░░░░░░░░░░░░░░░░░░░   14.25 %
-YAML                   ███░░░░░░░░░░░░░░░░░░░░░░   11.44 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
