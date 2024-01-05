@@ -45,7 +45,11 @@ My backend skills:
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+JavaScript                   ███████████████░░░░░░░░░░   59.64 %
+Markdown                     █████▒░░░░░░░░░░░░░░░░░░░   20.80 %
+CSS                          ███▒░░░░░░░░░░░░░░░░░░░░░   13.05 %
+YAML                         █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 %
+JSON                         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 %
 ```
 
 <!--END_SECTION:waka-->
