@@ -1,6 +1,6 @@
-### Hello!
+### Hi there
 
-My name is Tim, I'm a passionate young software developer who loves coding. I can communicate in several languages, including English, Greek, Russian, and Polish.
+I'm Tim, a passionate Software Developer skilled in both Frontend and Backend development. I'm fluent in English, Greek, Russian, and Polish. 
 
 <!--DISABLED_START_SECTION:waka-->
 <!--DISABLED_END_SECTION:waka-->
