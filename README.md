@@ -1,4 +1,4 @@
-### Hi there
+`devnyxie:~$ Hi there <3`
 
 I'm Tim, a passionate Software Developer skilled in both Frontend and Backend development. I'm fluent in English, Greek, Russian, and Polish. 
 
