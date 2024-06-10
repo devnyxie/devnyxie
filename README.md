@@ -1,6 +1,7 @@
-`devnyxie:~$ Hi there <3`
+`devnyxie:~$ Hi there!`
 
-I'm Tim, a passionate Software Developer skilled in both Frontend and Backend development. I'm fluent in English, Greek, Russian, and Polish. 
+Enthusiastic Software Developer with a passion for open-source.<br/>
+Fluent in English, Greek, Russian, and Polish. 
 
 <!--DISABLED_START_SECTION:waka-->
 <!--DISABLED_END_SECTION:waka-->
