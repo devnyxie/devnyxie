@@ -8,7 +8,7 @@ Software Developer and student at 42 Warsaw, passionate about scalable solutions
 
 <div align="center">
   
-[website](https://www.devnyxie.com)  .  [notes](https://notes.devnyxie.com)  .  [resume](https://devnyxie.notion.site/resume)
+[website](https://www.devnyxie.com)  .  [notes](https://notes.devnyxie.com)
 
 </div>
 <!--DISABLED_START_SECTION:waka-->
