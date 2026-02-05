@@ -1,6 +1,6 @@
 <div align="center">
   
-Software Developer and student at 42 Warsaw, passionate about scalable solutions and continuous learning
+Software Engineer at Capgemini and student at 42 Warsaw, passionate about scalable solutions and continuous learning
 
 </div>
 
@@ -8,13 +8,7 @@ Software Developer and student at 42 Warsaw, passionate about scalable solutions
 
 <div align="center">
   
-[website](https://www.devnyxie.com)  .  [notes (legacy)](https://notes.devnyxie.com) 
-
-</div>
-
-<div align="center">
-  
-Available for Backend and Frontend roles
+[find me here](https://www.devnyxie.com)
 
 </div>
 
