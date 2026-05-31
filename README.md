@@ -1,10 +1,11 @@
-<div align="center">
+<!-- <div align="center">
   
 Software Engineer at Capgemini and student at 42 Warsaw, passionate about scalable solutions and continuous learning
 
 </div>
 
 <hr/>
+ -->
 
 <div align="center">
   
