@@ -1,17 +1,4 @@
-<!-- <div align="center">
-  
-Software Engineer at Capgemini and student at 42 Warsaw, passionate about scalable solutions and continuous learning
+Software Engineer at Capgemini, passionate about scalable solutions and continuous learning.
 
-</div>
-
-<hr/>
- -->
-
-<div align="center">
-  
-[find me here](https://www.devnyxie.com)
-
-</div>
-
-<!--DISABLED_START_SECTION:waka-->
-<!--DISABLED_END_SECTION:waka-->
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
