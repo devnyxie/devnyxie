@@ -1,4 +1,6 @@
-Software Engineer at Capgemini, passionate about scalable solutions and continuous learning.
+Software Engineer (Architect) at Capgemini, passionate about scalable solutions and continuous learning.
 
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![English](https://img.shields.io/badge/English-C2-blue?style=flat-square)
+![Greek](https://img.shields.io/badge/Greek-Native-lightgrey?style=flat-square)
+![Russian](https://img.shields.io/badge/Russian-Native-lightgrey?style=flat-square)
+![Polish](https://img.shields.io/badge/Polish-B1-green?style=flat-square)
